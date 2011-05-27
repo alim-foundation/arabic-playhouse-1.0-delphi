@@ -1,0 +1,1404 @@
+[RememberingAllah]
+When you begin something:1.3 11.1 226.3 90 70:In the name of Allah
+When you want to do something:0.3 119.1 142.2 0.18 89 90 70:If Allah wills
+When something is being praised:11.4 1.1 5.2 0.0 119.2 90 70:Glory be to ALlah
+When you like something:23.2 0.0 12.2 0.18 90 70:Whatever Allah has willed
+When you thank someone:4.2 10.2 0.0 115.2 90 70:May Allah reward you
+When you wake up from sleep:69 90.3 154.15 228.2 90.3 130 90 70:There is no god but Allah
+When you sneeze:0.2 22.1 5.2 23.1 7.4 22.3 22.9 26.0:All praise is to Allah
+When someone else sneezes:27.2 9.1 5.2 23.4 223.2 90 70:May Allah have mercy on you
+When you want Allah's forgiveness:0.2 11.1 2.2 18.1 19.3 9.4 90 70:Allah forgive me
+When you leave someone:19.3 231.1 90.2 23.2 0.0 119.2 90 70:In the safety of Allah
+When you have a problem:2.2 25.2 21.9 22.1 205.4 147.2 22.2 231 90 70:I am counting on Allah
+When something bad happens:24.0 0.0 0.2 17.4 25.1 8.4 1.3 0.0 90 70:We seek Allah's protection
+When something good happens:19.2 2.2 1.2 0.0 9.2 115.2 90 70:I do not know
+When you give charity:19.3 231.1 141.2 1.3 27.1 225.3 90 70:For the sake of Allah
+
+[SimilarSounds]
+2.x 15.x
+5.x 25.x
+8.4 14.4
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+0.2 24.1
+0.3 8.1
+0.2 23.1
+0.3 24.1
+0.4 7.1
+0.4 15.1
+0.2 12.9
+0.2 1.9
+0.3 4.10
+0.3 7.10
+0.4 14.11
+0.4 23.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+1.2 24.1
+1.3 18.1
+1.2 11.1
+1.3 24.1
+1.4 7.1
+1.4 15.1
+1.2 12.9
+1.2 22.9
+1.3 4.10
+1.3 5.10
+1.4 14.11
+1.4 23.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+2.2 23.1
+2.3 15.1
+2.2 24.1
+2.3 21.1
+2.4 22.1
+2.4 24.1
+2.2 22.9
+2.2 7.9
+2.3 4.10
+2.3 22.10
+2.4 14.11
+2.4 24.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+3.2 16.1
+3.3 8.1
+3.2 9.1
+3.3 21.1
+3.4 23.1
+3.4 20.1
+3.2 4.9
+3.2 22.9
+3.3 4.10
+3.3 22.10
+3.4 14.11
+3.4 18.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+4.2 7.1
+4.3 22.1
+4.2 9.1
+4.3 14.1
+4.4 7.1
+4.4 22.1
+4.2 7.9
+4.2 1.9
+4.3 8.10
+4.3 7.10
+4.4 16.11
+4.4 23.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+5.2 1.1
+5.3 12.1
+5.2 11.1
+5.3 24.1
+5.4 14.1
+5.4 24.1
+5.2 12.9
+5.2 1.9
+5.3 10.10
+5.3 21.10
+5.4 4.11
+5.4 23.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+6.2 3.1
+6.3 8.1
+6.2 24.1
+6.3 16.1
+6.4 7.1
+6.4 9.1
+6.2 13.9
+6.2 11.9
+6.3 19..10
+6.3 7.10
+6.4 22.11
+6.4 24.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+7.2 2.1
+7.3 11.1
+7.2 22.1
+7.3 24.1
+7.4 17.1
+7.4 15.1
+7.2 23.9
+7.2 1.9
+7.3 19.10
+7.3 4.10
+7.4 6.11
+7.4 13.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+8.2 7.1
+8.3 1.1
+8.2 14.1
+8.3 23.1
+8.4 9.1
+8.4 21.1
+8.2 15.9
+8.2 1.9
+8.3 4.10
+8.3 9.10
+8.4 24.11
+8.4 18.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+9.2 1.1
+9.3 12.1
+9.2 22.1
+9.3 21.1
+9.4 20.1
+9.4 15.1
+9.2 4.9
+9.2 3.9
+9.3 21.10
+9.3 14.10
+9.4 23.11
+9.4 18.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+10.2 24.1
+10.3 23.1
+10.2 12.1
+10.3 4.1
+10.4 7.1
+10.4 21.1
+10.2 1.9
+10.2 4.9
+10.3 7.10
+10.3 2.10
+10.4 20.11
+10.4 22.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+11.2 26.1
+11.3 8.1
+11.2 14.1
+11.3 18.1
+11.4 719.1
+11.4 16.1
+11.2 1.9
+11.2 24.9
+11.3 22.10
+11.3 20.10
+11.4 19.11
+11.4 23.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+12.2 24.1
+12.3 1.1
+12.2 4.1
+12.3 24.1
+12.4 16.1
+12.4 4.1
+12.2 7.9
+12.2 1.9
+12.3 4.10
+12.3 9.10
+12.4 22.11
+12.4 20.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+13.2 7.1
+13.3 23.1
+13.2 15.1
+13.3 20.1
+13.4 1.1
+13.4 15.1
+13.2 2.9
+13.2 4.9
+13.3 7.10
+13.3 21.10
+13.4 24.11
+13.4 10.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+14.2 2.1
+14.3 8.1
+14.2 23.1
+14.3 24.1
+14.4 7.1
+14.4 15.1
+14.2 12.9
+14.2 1.9
+14.3 4.10
+14.3 7.10
+14.4 18.11
+14.4 23.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+15.2 24.1
+15.3 12.1
+15.2 21.1
+15.3 24.1
+15.4 11.1
+15.4 7.1
+15.2 24.9
+15.2 4.9
+15.3 1.10
+15.3 23.10
+15.4 14.11
+15.4 22.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+16.2 22.1
+16.3 3.1
+16.2 5.1
+16.3 7.1
+16.4 12.1
+16.4 17.1
+16.2 15.9
+16.2 14.9
+16.3 1.10
+16.3 24.10
+16.4 23.11
+16.4 19.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+17.2 7.1
+17.3 11.1
+17.2 7.1
+17.3 10.1
+17.4 2.1
+17.4 4.1
+17.2 1.9
+17.2 23.9
+17.3 4.10
+17.3 24.10
+17.4 23.11
+17.4 14.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+18.2 3.1
+18.3 9.1
+18.2 23.1
+18.3 19.1
+18.4 10.1
+18.4 17.1
+18.2 12.9
+18.2 20.9
+18.3 4.10
+18.3 9.10
+18.4 23.11
+18.4 24.11
+
+[ConnectSounds]
+cellpadY 30
+DiaScale 1.5
+19.2 11.1
+19.3 10.1
+19.2 13.1
+19.3 1.1
+19.4 7.1
+19.4 9.1
+19.2 1.9
+19.2 4.9
+19.3 15.10
+19.3 20.10
+19.4 6.11
+19.4 23.11
+
+[ConnectSounds]
+DiaScale 1.5
+cellpadY 30
+20.2 24.1
+20.3 8.1
+20.2 23.1
+20.3 24.1
+20.4 7.1
+20.4 15.1
+20.2 12.9
+20.2 1.9
+20.3 4.10
+20.3 7.10
+20.4 14.11
+20.4 23.11
+
+[ConnectSounds]
+DiaScale 1.5
+cellpadY 30
+21.2 19.1
+21.3 7.1
+21.2 23.1
+21.3 22.1
+21.4 15.1
+21.4 24.1
+21.2 1.9
+21.2 12.9
+21.3 23.10
+21.3 26.10
+21.4 2.11
+21.4 10.11
+
+[ConnectSounds]
+DiaScale 1.5
+cellpadY 30
+22.2 20.1
+22.3 21.1
+22.2 16.1
+22.3 18.1
+22.4 19.1
+22.4 21.1
+22.2 1.9
+22.2 20.9
+22.3 24.10
+22.3 1.10
+22.4 12.11
+22.4 14.11
+
+[ConnectSounds]
+DiaScale 1.5
+cellpadY 30
+23.2 24.1
+23.3 8.1
+23.2 16.1
+23.3 24.1
+23.4 7.1
+23.4 15.1
+23.2 12.9
+23.2 1.9
+23.3 4.10
+23.3 7.10
+23.4 14.11
+23.4 22.11
+
+[ConnectSounds]
+DiaScale 1.5
+cellpadY 30
+24.2 20.1
+24.3 12.1
+24.2 4.1
+24.3 16.1
+24.4 6.1
+24.4 8.1
+24.2 1.9
+24.2 20.9
+24.3 17.10
+24.3 11.10
+24.4 23.11
+24.4 26.11
+
+[ConnectSounds]
+DiaScale 1.5
+cellpadY 30
+25.2 2.1
+25.3 6.1
+25.2 11.1
+25.3 24.1
+25.4 10.1
+25.4 7.1
+25.2 19.9
+25.2 4.9
+25.3 1.10
+25.3 7.10
+25.4 9.11
+25.4 20.11
+
+[ConnectSounds]
+DiaScale 1.5
+26.2 7.1
+26.3 12.1
+26.2 21.1
+26.3 22.1
+26.4 23.1
+26.4 19.1
+26.2 1.9
+26.2 4.9
+26.3 8.10
+26.3 9.10
+26.4 14.11
+26.4 7.11
+
+[ConnectSounds]
+DiaScale 1.5
+cellpadY 30
+27.2 1.1
+27.3 7.1
+27.2 24.1
+27.3 20.1
+27.4 21.1
+27.4 11.1
+27.2 2.9
+27.2 12.9
+27.3 9.10
+27.3 21.10
+27.4 20.11
+27.4 18.11
+
+[WordsClass 1]
+id 1
+DiaScale 1.5
+7.2 23.2
+22.2 21.2
+25.2 22.2
+12.2 9.2
+20.2 22.2
+5.2 11.2
+23.2 9.2
+0.2 22.2
+9.2 1.2
+0.2 1.2
+9.2 21.2
+11.2 25.2
+
+[WordsClass 1]
+id 2
+DiaScale 1.5
+1.3 7.3
+21.3 1.3
+0.3 24.3
+6.3 9.3
+1.3 20.3
+22.3 23.3
+1.3 26.3
+17.3 1.3
+13.3 7.3
+9.3 5.3
+16.3 1.3
+11.3 22.3
+
+[WordsClass 1]
+id 3
+DiaScale 1.5
+20.4 22.4
+9.4 11.4
+17.4 1.4
+11.4 17.4
+12.4 9.4
+11.4 1.4
+6.4 22.4
+2.4 19.4
+12.4 4.4
+7.4 27.4
+12.4 24.4
+15.4 1.4
+
+[WordsClass 1]
+id 4
+DiaScale 1.5
+23.2 7.5
+5.2 20.5
+1.2 22.5
+24.2 19.5
+13.2 24.5
+125.2 16.5
+19.2 24.5
+26.2 25.5
+22.2 27.5
+69 21.5
+27.2 2.5
+6.2 18.5
+
+[WordsClass 1]
+id 5
+DiaScale 1.5
+1.3 2.6
+15.3 9.6
+5.3 26.6
+23.3 12.6
+3.3 10.6
+11.3 25.6
+14.3 27.6
+20.3 21.6
+126.3 15.6
+5.3 22.6
+25.3 27.6
+24.3 21.6
+
+[WordsClass 1]
+id 6
+DiaScale 1.5
+4.4 6.7
+9.4 12.7
+17.4 24.7
+25.4 19.7
+26.4 25.7
+8.4 14.7
+125.4 2.7
+21.4 27.7
+22.4 16.7
+14.4 13.7
+3.4 12.7
+2.4 22.7
+
+
+[WordsClass 2]
+id 1
+cellpadY 30
+DiaScale 1.9
+9.2 12.2 7.2
+11.2 22.2 23.2
+17.2 23.2 22.2
+21.2 19.2 9.2
+12.2 5.2 7.2
+1.2 7.2 9.2
+0.2 6.2 8.2
+11.2 22.2 5.2
+20.2 23.2 9.2
+18.2 10.2 1.2
+19.2 9.2 14.2
+6.2 22.2 20.2
+
+
+[WordsClass 2]
+id 2
+cellpadY 30
+DiaScale 1.9
+13.2 7.2 20.2
+5.2 11.2 7.2
+1.2 22.2 18.2
+21.2 11.2 1.2
+12.2 22.2 23.2
+4.2 23.2 17.2
+8.2 21.2 9.2 
+17.2 7.2 22.2
+9.2 19.2 17.2
+11.2 9.2 20.2
+25.2 20.2 1.2
+25.2 22.2 7.2
+
+[WordsClass 2]
+id 3
+cellpadY 30
+DiaScale 1.9
+0.2 8.3 24.2
+1.2 20.3 27.2
+5.2 23.3 7.2
+6.2 12.3 27.2
+11.2 6.3 9.2
+12.2 9.3 1.2
+17.2 6.3 1.2
+18.2 14.3 1.2
+0.2 1.2 2.3
+23.2 22.3 21.3
+1.2 22.2 7.3
+5.2 2.2 1.3
+
+[WordsClass 2]
+id 4
+cellpadY 30
+DiaScale 1.9
+0.3 2.3 22.3
+21.3 1.2 9.2 
+17.2 22.3 23.2
+0.3 9.2 23.2
+4.4 17.3 22.2
+6.4 22.3 20.2
+8.4 21.3 9.2
+11.4 17.3 22.2
+16.4 22.3 23.2
+23.4 24.3 17.2
+22.4 17.3 24.2
+26.4 7.3 27.2
+
+[WordsClass 2]
+id 5
+cellpadY 30
+DiaScale 1.9
+5.4 7.4 21.3
+13.4 5.4 19.3
+0.4 8.4 24.3
+9.4 1.4 17.4
+0.2 17.4 16.4
+2.2 10.3 9.4
+27.2 9.3 3.4
+27.2 17.3 7.4
+19.2 0.3 8.2
+23.3 11.2 0.0
+1.2 22.2 7.3
+17.2 23.3 22.4
+
+[WordsClass 2]
+id 6
+cellpadY 30
+DiaScale 1.9
+0.2 4.3 7.4
+20.2 22.2 23.3
+16.2 22.2 23.2
+6.2 22.2 20.2
+25.2 20.2 1.2
+5.2 11.2 7.2
+21.2 11.2 1.2
+20.2 7.2 9.2
+25.2 26.2 1.2
+13.2 7.2 20.2
+12.2 9.2 5.2
+19.2 9.2 14.2
+
+[WordsClass 2]
+id 7
+cellpadY 30
+DiaScale 1.9
+25.2 22.2 7.2
+20.4 7.3 9.2 
+26.4 7.3 27.2
+24.4 19.3 6.2
+6.4 22.3 20.2
+18.4 19.3 9.2
+14.4 9.3 1.2
+25.4 17.3 7.2
+21.4 2.3 1.2
+27.2 14.2 17.4
+20.4 14.3 27.2
+9.2 14.3 27.2
+
+[WordsClass 2]
+id 8
+cellpadY 30
+DiaScale 1.9
+11.2 23.3 17.2
+24.2 12.2 27.2
+1.2 6.3 22.2
+18.2 12.3 27.2
+22.2 1.3 3.2
+25.2 22.3 27.2
+22.2 20.3 27.2
+27.2 7.3 27.2
+2.2 1.3 17.2
+22.2 26.4 25.2
+0.4 6.2 9.2 
+17.4 20.2 7.3
+
+[WordsClass 2]
+id 9
+cellpadY 30
+DiaScale 1.9
+13.3 27.2 29.3
+69 23.3 11.2
+10.2 21.2 9.3
+25.2 23.3 24.2
+69 26.3 27.2
+0.4 23.3 9.4
+125.2 19.2 235.2 
+24.2 0.0 9.3
+11.4 28.3 22.2
+0.15 2.2 25.4
+27.2 28.3 11.2
+17.2 0.0 7.6
+
+[WordsClass 2]
+id 10
+cellpadY 30
+DiaScale 2.5
+25.2 4.2 7.2 21.2
+17.2 7.2 22.2 21.2
+25.2 6.2 7.2 21.2
+22.2 2.2 9.2 25.4
+6.2 22.2 20.2 21.2
+1.3 27.2 7.3 21.2
+5.4 24.2 19.2 0.15
+25.2 2.2 25.2 0.0
+1.3 5.3 4.2 0.0
+25.2 8.15 22.3 21.2
+25.2 17.2 23.3 22.4
+26.2 0.0 23.3 7.2
+
+[WordsClass 2]
+id 11
+cellpadY 30
+DiaScale 2.5
+0.2 1.2 7.5 0
+9.2 18.2 7.5 0
+15.2 1.2 20.5 0
+4.2 24.2 19.5 0
+23.2 22.3 21.5 0
+23.2 3.2 22.5 0
+17.3 24.2 1.5 0
+20.2 13.2 13.5 0
+22.2 17.3 1.5 0
+3.2 23.2 24.5 0
+0.2 11.3 19.5 0
+20.2 7.2 9.5 0
+
+[WordsClass 2]
+id 12
+cellpadY 30
+DiaScale 2.5
+22.2 1.2 24.5 0
+21.2 8.3 1.5 0
+12.2 15.2 15.5 0
+21.4 19.4 25.5 0
+22.4 1.2 7.5 0
+11.4 9.4 9.5 0
+26.4 10.4 25.5 0
+9.4 11.4 22.5 0
+17.2 22.2 20.2 29.5
+1.2 20.2 9.2 29.5
+5.2 11.2 24.2 29.5
+24.2 6.3 9.2 29.5
+
+[WordsClass 2]
+id 13
+cellpadY 30
+DiaScale 1.9
+17.2 23.2 7.6
+15.2 1.2 20.6
+21.2 1.2 7.6
+17.2 22.2 20.6
+23.2 11.2 7.6
+22.2 26.2 1.6
+11.2 24.2 2.6
+24.2 26.2 9.6
+12.2 4.2 9.6
+18.2 14.2 1.6
+11.2 5.2 9.6
+21.2 8.3 1.6
+
+[WordsClass 2]
+id 14
+cellpadY 30
+DiaScale 1.9
+22.2 26.2 1.6
+19.4 9.4 12.6
+6.2 1.2 9.6
+1.3 7.2 23.6
+5.2 9.2 4.6
+1.4 21.4 22.6
+11.3 24.2 2.7
+23.2 9.2 14.7
+5.2 9.2 4.7
+22.2 17.3 1.7
+5.4 9.2 23.7
+25.2 22.2 7.7
+
+[WordsClass 2]
+id 15
+cellpadY 30
+DiaScale 1.9
+11.4 9.4 9.7
+0.4 8.4 24.7
+21.4 2.4 1.7
+9.4 11.4 22.7
+9.2 4.4 22.7
+4.4 7.2 7.7
+0.2 5.2 7.7
+20.2 11.2 23.7
+1.2 12.2 9.7
+21.3 2.2 1.7
+11.2 5.2 1.7
+9.2 4.2 17.7
+
+[WordsClass 2]
+id 16
+cellpadY 30
+DiaScale 2.5
+11.2 19.2 9.2 29.6
+1.2 9.2 9.2 29.6
+9.2 20.2 1.2 29.6
+3.2 23.2 9.2 29.6
+26.4 23.2 10.2 29.6
+22.4 23.2 10.2 29.6
+18.2 1.2 9.2 29.7
+20.2 2.2 9.2 29.7
+1.2 20.2 9.2 29.7
+0.0 24.2 19.2 11.7
+0.0 6.2 1.2 9.7
+11.2 25.2 0.0 28.7
+
+[WordsClass 2]
+id 17
+cellpadY 30
+DiaScale 1.9
+0.15 23.2 24.2
+0.15 3.2 9.2
+11.2 22.15 23.7
+0.15 6.2 9.2
+5.2 22.15 235.5
+25.17 9.3 27.2
+0.15 27.15 2.3
+0.3 22.15 26.2
+26.15 8.3 26.16
+21.3 2.15 1.7
+27.2 9.2 26.17
+0.16 22.15 19.3
+
+[WordsClass 2]
+id 18
+cellpadY 30
+DiaScale 2.5
+23.2 0.15 1.5 0.0
+21.15 12.3 19.15 2.4
+23.3 26.15 7.5 0.0
+0.15 27.15 2.3 26.16
+6.15 22.15 2.3 21.2
+11.2 23.15 25.15 2.6
+5.15 19.3 16.15 2.7
+1.3 27.2 7.3 26.16
+9.3 11.15 22.15 2.3
+18.2 0.0 25.17 24.2
+7.2 0.0 25.17 7.2
+21.3 2.15 1.2 26.17
+
+[WordsClass 3]
+id 1 Maddah
+cellpadY 35
+DiaScale 2
+1.19 0.0
+11.19 0.0
+4.19 0.0 28.2
+12.19 0.0 28.2 
+18.4 3.19 0.0 28.5
+24.3 11.19 0.0 28.5
+0.2 7.19 0.0 28.7
+11.2 25.19 0.0 28.7
+1.2 235.19 28.7
+23.2 22.22 28.3 21.2 29.4
+27.22 0.15 7.2 23.4
+21.2 1.19 28.3 9.2
+
+[WordsClass 3]
+id 2 Sukoon Wow
+cellpadY 35
+DiaScale 1.9
+0.2 25.1
+2.2 25.1
+3.2 25.1
+4.2 25.1
+5.2 25.1
+6.2 25.1
+7.2 25.1
+8.2 25.1
+9.2 25.1
+10.2 25.1
+11.2 25.1
+12.2 25.1
+
+[WordsClass 3]
+id 3 Sukoon Yaa
+cellpadY 35
+DiaScale 1.9
+1.2 27.1
+13.2 27.1
+14.2 27.1
+15.2 27.1
+16.2 27.1
+17.2 27.1
+18.2 27.1
+19.2 27.1
+20.2 27.1
+21.2 27.1
+22.2 27.1
+23.2 27.1
+
+[WordsClass 3]
+id 4 Sukoon Maddah Shaddah
+cellpadY 35
+DiaScale 2
+1.21 25.1
+1.20 27.1
+4.19 0.0 24.7
+0.2 25.1 22.3 27.19 0.0 28.4
+7.3 23.19 0.0 89.2 21.4 23.1
+0.22 22.1 28.15 24.2
+5.19 0.0 4.9 21.2
+14.19 0.0 234.12
+7.19 0.0 1.9 29.6
+9.19 0.0 7.11 21.2
+21.19 0.0 19.9 29.5
+0.22 23.10 27.1 24.2
+
+[WordsClass 3]
+id 5 Simple Sukoon & Shaddah
+cellwidth 200
+cellpadY 35
+DiaScale 1.9
+125.2 142.4 7.9 21.4 23.1
+27.4 5.2 22.9 25.1 24.2
+25.2 23.2 24.1 19.3 27.0
+0.2 119.1 158.9 5.3 22.9
+27.2 6.1 9.4 4.4 25.1
+27.2 17.3 7.1 21.4 23.1
+
+[WordsClass 3]
+id 6 Complex Sukoon & Shaddah
+cellwidth 500
+cellpadY 35
+DiaScale 1.4
+Showconnect 0
+25.2 23.2 119.1 32 156.9 131 12.2 243 89.4
+19.3 231.0 32 90.0 154.0 14.9 22.15 22.2 29.3
+9.2 91.11 32 90.0 154.0 11.9 23.15 25.15 2.3
+
+[WordsClass 3]
+id 7 Complex Sukoon & Shaddah
+cellwidth 500
+cellpadY 35
+DiaScale 1.5
+Showconnect 0
+2.4 2.1 22.15 231.0 32 147.2 22.2 27.1 26.3 23.1
+27.2 25.1 226.2 32 90.0 154.1 20.3 27.15 23.2 29.3
+20.2 0.0 22.4 25.1 32 158.15 23.4 25.1 11.22 27.0
+
+[WordsClass 3]
+id 8 Complex Succoon and Shaddah
+cellwidth 500
+cellpadY 35
+DiaScale 2.7
+Showconnect 0
+11.2 20.1 19.5 0.0 32 155.9 5.1 19.4 25.1 16.5 0.0 32 25.9 26.4 226.1 147.2 24.1
+25.2 21.2 3.3 27.0 9.7 5.2 113.9 147.2 22.2 27.1 26.3 0.0 22.1 17.2 8.2 0.0 1.4
+22.2 24.2 5.1 12.4 9.2 24.9 26.4 226.1 32 121.2 90.0 154.0 12.9 27.15 15.3 27.1 24.2
+
+[WordsClass 4]
+id 1
+cellwidth 500
+cellpadY 90
+Showconnect 0
+DiaScale 2.85
+1.3 11.1 118.3 90 154.0 22.9 228.3 90 154.0 9.9 5.1 23.15 227.3 90 154.0 9.9 5.3 27.1 23.3
+90.2 154.1 5.2 23.1 7.4 154.3 22.9 228.3 101.2 91.10 90 154.1 17.15 22.2 23.3 27.1 24.2 32 32
+
+[WordsClass 4]
+id 2
+cellwidth 500
+cellpadY 90
+Showconnect 0
+DiaScale 1.8
+20.4 225.1 157.4 25.2 90 154.0 22.9 228.4 32 90.2 138.2 7.7
+90.3 156.9 228.4 152.2 163.0 119.2 159.2 194.9 90.0 133.5 0.0 32
+
+[WordsClass 4]
+id 3
+cellwidth 500
+cellpadY 90
+Showconnect 0
+DiaScale 1.5
+25.2 134.2 25.1 90 133.3 163 154.0 13.9 1.1 9.3
+90.2 133.3 229.1 154.2 26.2 204.6 121.9 32 134.2 1.9
+
+[WordsClass 4]
+id 4
+cellwidth 500
+cellpadY 90
+Showconnect 0
+DiaScale 3.5
+90.1 147.4 25.1 100.4 133.3 163.0 154.0 22.9 228.3 155.3 227.2 90.0 154.0 12.9 27.1 15.2 119.3 90 154.0 9.9 4.3 27.1 23.3
+90.0 154.9 173.3 158.1 227.2 32 157.4 226.1 147.2 227.1 32 143.2 235.2 134.3 26.3 226.1 32 141.2 163 157.4 194.1 119.2 32
+
+[WordsClass 4]
+id 5
+cellwidth 500
+cellpadY 90
+Showconnect 0
+DiaScale 1.8
+19.2 13.2 225.10 154.3 174.2 133.10 223.2 121.2 90.0 156.1 5.2 9.1
+23.15 22.3 223.3 158.2 25.1 118.3 90.0 154.0 172.10 158.1 227.3 32
+
+[WordsClass 4]
+id 6
+cellwidth 500
+cellpadY 90
+Showconnect 0
+DiaScale 2.85
+19.2 22.1 27.2 17.1 1.4 172.4 121.1 90.0 101.2 91.9 157.15 173.2 32 90.0 154.1 1.2 27.1 2.3 32
+90.3 157.1 172.3 156.2 163.0 90.0 154 13.10 174.2 90 108 90 154.1 23.4 11.1 2.2 20.3 27.1 23.2
+
+[WordsClass 4]
+id 7
+cellwidth 500
+cellpadY 90
+Showconnect 0
+DiaScale 2.3
+19.2 4.2 17.2 22.2 26.4 226.1 152.2 17.2 13.1 220.6 155.9 163.1 152.4 25.1 117.6
+22.2 226.1 158.2 22.3 172.1 121.2 154.2 226.1 158.4 194.1 154.2 172.1 32 32 32
+
+[WordsClass 4]
+id 8
+cellwidth 500
+cellpadY 90
+Showconnect 0
+DiaScale 1.4
+23.2 22.3 223.3 90.0 154.0 24.9 0.0 104.3 32
+23.3 227.1 142.2 174.10 155.2 163.0 139.2 22.2 20.2
+
+
+
+
+[Sura]
+.Name Al-Fatiha
+.Number 1
+
+.bitmapCoords
+a1 461:498 432 365 305 n302
+a2 228:277 204 175 109 n106
+a3 2:74 > 436:500 n433
+a4 360:403 330 284 n281
+a5 221:252 183 165 140 80 n77
+a6 3:47 > 434:500 357 n354
+a7 272:325 225 170 120 82 2 > 448:497 436 424 365 n361
+.endBitmapCoords
+
+.ayahMeaning
+In the name of Allah Most Gracious Most Merciful. 
+Praise be to Allah the Cherisher and Sustainer of the Worlds. 
+Most Gracious Most Merciful.
+Master of the Day of Judgment.
+Thee do we worship and Thine aid we seek. 
+Show us the straight way.
+The way of those on whom Thou hast bestowed Thy Grace Those whose (portion) is not wrath and who go not astray.
+
+.wordTrans
+In the name:of Allah:Most Gracious:Most Merciful 
+Praise be:to Allah:the Lord:the Worlds
+Most Gracious:Most Merciful
+Master:the Day:of Judgement
+Thee do:we worship:and:Thine:aid we seek
+Show us:way:the straight
+The way:those:Thou hast bestowed thy grace:on whom:not those:Thou hast bestowed thy wrath:on whom:and:not those:who go astray
+
+[Sura]
+.Number 103
+.Name Al-Asr
+
+.bitmapCoords
+a1 486:498 428 n425
+a2 379:399 313 275 224 n221
+a3 174:192 122 67 52 2 > 413:498 401 347 297 285 231 172 n169
+.endBitmapCoords
+
+.ayahMeaning
+By (the Token of) time (through the Ages) 
+Verily Man is in loss
+Except such as have Faith and do righteous deeds and (join together) in the mutual teaching of Truth and of Patience and Constancy.
+
+.wordTrans
+By:time
+Verily:mankind:in:loss
+Except:those:have Faith:and:do:righteous deeds:and:join in:truth:and:join in:patience
+
+[Sura]
+.Number 104
+.Name Al-Humaza
+
+.bitmapCoords
+a1 461:498 424 382 345 n344
+a2 280:318 241 217 203 156 n153
+a3 67:124 44 2 > 440:498 n437
+a4 374:406 319 296 232 n230
+a5 189:200 172 119 103 38 n32 >
+a6 470:498 441 379 n377
+a7 312:349 267 234 181 n179
+a8 118:149 63 2 > n493
+a9 439:463 405 355 n353
+.endBitmapCoords
+
+
+.ayahMeaning
+Woe to every (kind of) scandal-monger and backbiter 
+Who pileth up wealth and layeth it by
+Thinking that his wealth would make him last for ever!
+By no means! He will be sure to be thrown into that which breaks to pieces. 
+And what will explain to thee That which Breaks to Pieces?
+(It is) the Fire of (the Wrath of) Allah kindled (to a blaze)
+The which doth mount (Right) to the Hearts: 
+It shall be made into a vault over them
+In columns outstretched. 
+
+.wordTrans
+Woe:to every:scandal-monger:backbiter
+Who:pileth up:wealth:and:layeth it by
+Thinking:that:his wealth:make him last forever
+By no means!:he will be thrown:in:break to pieces
+And:what:will explain to thee:what:break to pieces
+The Fire of:Allah:kindled
+Which:doth mount:to:the hearts
+It shall be:over them:made into a vault
+In:columns:outstretched
+
+[Sura]
+.Number 105
+.Name Al-Fil
+
+.bitmapCoords
+a1 468:499 441 396 360 321 246 200 n198
+a2 142:170 94 60 33 2 > 437:498 n435
+a3 393:405 346 294 252 197 n194
+a4 101:164 31 2 > 445:498 n442
+a5 352:414 294 243 n240
+.endBitmapCoords
+
+.ayahMeaning
+Seest thou not how thy Lord dealt with the Companions of the Elephant?
+Did He not make their treacherous plan go astray?
+And He sent against them flights of Birds
+Striking them with stones of baked clay.
+Then did He make them like an empty field of stalks and straw (of which the corn) has been eaten up.
+
+.wordTrans
+Thou not:seest:how:dealt:your Lord:the companions of:the Elephant
+Did not:make:treacherous plan:their:in:astray
+And:sent them:against:birds:flights
+Striking:stones:of:baked clay
+He did make them:empty field of stalks and straw:eaten up
+
+[Sura]
+.Number 106
+.Name Quraish
+
+.bitmapCoords
+a1 443:499 393 n390
+a2 300:364 254 207 196 140 n137
+a3 36:108 2 > 462:498 411 n408
+a4 342:380 281 257 211 199 148 124 77 n74
+.endBitmapCoords
+
+.ayahMeaning
+For the covenants (of security and safeguard enjoyed) by the Quraish. 
+Their covenants (covering) journeys by winter and summer. 
+Let them adore the Lord of this House 
+Who provides them with food against hunger and with security against fear (of danger). 
+
+.wordTrans
+For the covenants:The Quraish
+Their covenants:journeys:by winter:and:summer
+Let them adore:the Lord:of this:House
+Who: provides them with food:against:hunger:and:with security:against:fear
+
+[Sura]
+.Number 107
+.Name Al-Ma'un
+
+.bitmapCoords
+a1 439:498 396 338 283 n280
+a2 203:253 160 119 65 n62
+a3 15:29 2 > 444:498 407 368 294 n291
+a4 215:261 146 n143
+a5 68:116 35 2 > 435:498 384 n380
+a6 309:353 283 225 n222
+a7 182:194 127 68 n64
+.endBitmapCoords
+
+.ayahMeaning
+Seest thou one who denies the Judgment (to come)? 
+Then such is the (man) who repulses the orphan (with harshness)
+And encourages not the feeding of the indigent. 
+So woe to the worshippers
+Who are neglectful of their Prayers
+Those who (want but) to be seen (of men)
+But refuse (to supply) (Even) neighborly needs.
+
+
+.wordTrans
+Seest thou:one who:denies:The judgement
+Then such is:one who:repulses:the orphans
+And:not:encourages:of:the feeding:indigent
+So woe:to the worshippers
+Who:who:of:their Prayers:are neglectful
+Those:who:to be seen
+And:refuse:neighborly needs
+
+[Sura]
+.Number 108
+.Name Al-Kauthar
+
+.bitmapCoords
+a1 475:498 403 344 n341
+a2 275:314 232 220 179 n176
+a3 128:148 80 53 > 445:498 n438
+.endBitmapCoords
+
+.ayahMeaning
+To thee have We granted the Fount (Of Abundance). 
+Therefore to thy Lord turn in Prayer and Sacrifice. 
+For he who hateth thee he will be cut off (from Future Hope).
+
+
+.wordTrans
+To thee:have we granted:the Fount
+turn in prayer:to thy Lord:and:sacrifice
+For:he who hateth thee:he:will be cut off
+
+[Sura]
+.Number 109
+.Name Al-Kafirun
+
+.bitmapCoords
+a1 471:498 428 347 n344
+a2 301:317 264 245 183 n180
+a3 139:151 125 89 24 2 > 455:498 n451
+a4 409:421 395 372 334 313 257 n254
+a5 213:225 199 163 100 83 39 n32 >
+a6 462:498 409 397 377 344 n341
+.endBitmapCoords
+
+
+.ayahMeaning
+Say: O ye that reject Faith! 
+I worship not that which ye worship
+Nor will ye worship that which I worship.
+And I will not worship that which ye have been wont to worship
+Nor will ye worship that which I worship.
+To you be your Way and to me mine.
+
+.wordTrans
+Say:O ye:that reject Faith:
+not:I worship:that which:ye worship
+and:not:will ye:worship:that which:I worship
+And:not:I:worship:that which:ye have wont to worship
+and:not:will ye:worship:that which:I worship
+To you:your way:and:to me:my way
+
+[Sura]
+.Number 110
+.Name Al-Nasr
+
+.bitmapCoords
+a1 476:498 438 395 362 350 303 n300
+a2 261:273 216 172 104 78 39 2 > 447:498 n443
+a3 368:415 322 283 271 210 177 146 108 n104
+.endBitmapCoords
+
+.ayahMeaning
+When comes the Help of Allah and Victory
+And thou dost see the People enter Allah's Religion in crowds 
+Celebrate the Praises of thy Lord and pray for His Forgiveness: for He is Oft-Returning (in Grace and Mercy).
+
+.wordTrans
+When:comes:the Help:Allah:and:Victory
+And:thou dost see:the People:enter:in:Religion:Allah's:crowd
+Celebrate:the Praises:thy Lord:and:pray for His Forgiveness:For He:is:oft-Returning
+
+[Sura]
+.Number 111
+.Name Al-Lahab
+
+.bitmapCoords
+a1 459:498 431 401 364 352 325 n323
+a2 279:295 240 211 174 162 149 102 n99
+a3 2:65 > 466:498 433 395 n392
+a4 350:362 293 247 185 n182
+a5 128:153 75 30 2 > 460:498 n453
+.endBitmapCoords
+
+.ayahMeaning
+Perish the hands of the Father of Flame! Perish he!
+No profit to him from all his wealth and all his gains!
+Burnt soon will he be in a Fire of blazing Flame!
+His wife shall carry the (crackling) wood as fuel! 
+A twisted rope of palm-leaf fibre round her (own) neck!
+
+.wordTrans
+Perish:the hands:the Father:of Flame:and:perish he
+No:profit:to him:all his wealth:and:all:his gains
+Burnt soon will he be:a fire:blazing:flame
+And:his wife:shall carry:wood as fuel
+of:her neck:a twisted rope:around:palm leaf fiber
+
+[Sura]
+.Number 112
+.Name Al-Ikhlaas
+
+.bitmapCoords
+a1 471:498 446 416 380 n376
+a2 321:351 269 n265
+a3 213:236 184 172 152 112 n108
+a4 66:78 43 2 > 470:498 432 395 n391 
+.endBitmapCoords
+
+.ayahMeaning
+Say: He is Allah the One and Only
+Allah the Eternal Absolute
+He begetteth not nor is He begotten
+And there is none like unto Him.
+
+.wordTrans
+Say:He:is Allah:The One and Only
+Allah:The Eternal, Absolute
+not:He begetteth:and:not:is He begotten
+and:not:there is:unto:like:The One and Only
+
+[Sura]
+.Number 113
+.Name Al-Falaq
+
+.bitmapCoords
+a1 472:498 431 392 347 n345
+a2 292:317 263 245 207 n204
+a3 163:175 142 115 73 47 2 > n493
+a4 452:463 430 404 331 308 265 n260
+a5 220:231 198 170 127 103 59 n55
+.endBitmapCoords
+
+.ayahMeaning
+Say: I seek refuge with the Lord of the Dawn 
+>From the mischief of created things;
+>From the mischief of Darkness as it overspreads;
+>From the mischief of those who practice Secret Arts;
+And from the mischief of the envious one as he practices envy.
+
+.wordTrans
+Say:I seek refuge:with the Lord:of the Dawn
+From:the mischief:of:created things
+And:from:the mischief:darkness:as it:overspreads
+And:from:the mischief:those who practice:of:secret arts
+And:from:the mischief:the envious one:as:he practices envy
+
+[Sura]
+.Number 114
+.Name An-Naas
+
+.bitmapCoords
+a1 468:498 423 380 333 n330
+a2 265:303 218 n215
+a3 151:187 104 n101
+a4 38:71 2 > 429:499 369 n366
+a5 296:338 233 206 156 112 n109
+a6 52:80 1 > 446:498 n443
+.endBitmapCoords
+
+.ayahMeaning
+Say: I seek refuge with the Lord and Cherisher of Mankind 
+The King (or Ruler) of Mankind
+The Allah (or Judge) of Mankind
+>From the mischief of the Whisperer (of Evil) who withdraws (after his whisper)
+(The same) who whispers into the hearts of mankind
+Among Jinns and among Men.
+
+.wordTrans
+Say:I seek refuge:with the Lord:mankind
+The King:mankind
+The God:mankind
+From:the mischief:the whisperer:who withdraws
+Who:whispers:into:the hearts:mankind
+Among:jinns:and mankind

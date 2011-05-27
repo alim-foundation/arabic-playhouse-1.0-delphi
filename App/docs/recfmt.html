@@ -1,0 +1,285 @@
+<h1>Arabic Playhouse Recording Keys (for aplay.smd)</h1>
+
+<table width=100% border=1 cellpadding=5 cellspacing=0 bgcolor=lightyellow valign=top>
+  <tr bgcolor=lightcyan>
+	<th>Recording Type</th>
+	<th>Key</th>
+	<th>Zero-padded</th>
+	<th>Click type</th>
+	<th>Format Meanings</th>
+  </tr>
+
+  <tr valign=top>
+	<td>Letters</td>
+	<td><code>x.y<code></td>
+	<td>No</td>
+	<td>Left Btn</td>
+	<td>
+		<table>
+			<tr>
+				<td><code><b>x</td><td>arabic letter id</td>
+			</tr>
+			<tr>
+				<td><code><b>y</td><td>arabic vowel id</td>
+			</tr>
+		</table>
+	</td>
+  </tr>
+
+  <tr valign=top bgcolor=yellow>
+	<td>Vowels</td>
+	<td><code>AVx<code></td>
+	<td>No</td>
+	<td>Left Btn</td>
+	<td>
+		<table>
+			<tr>
+				<td><code><b>x</td><td>arabic vowel id</td>
+			</tr>
+		</table>
+	</td>
+  </tr>
+
+  <tr valign=top>
+	<td>Shapes</td>
+	<td><code>ACx.y<code></td>
+	<td>No</td>
+	<td>Left Btn</td>
+	<td>
+		<table>
+			<tr valign=top>
+				<td><code><b>x</td><td>Personality id (0=child,1=male,2=female)</td>
+			</tr>
+			<tr valign=top>
+				<td rowspan=5><code><b>y</td><td>Arabic letter context</td>
+			</tr>
+			<tr><td>0 isolated
+			<tr><td>1 initial
+			<tr><td>2 medial
+			<tr><td>3 final
+		</table>
+	</td>
+  </tr>
+
+  <tr valign=top bgcolor=yellow>
+	<td rowspan=2>Words</td>
+	<td><code>Wxx.yy.zz<code></td>
+	<td>Yes (two digits)</td>
+	<td>Left Btn</td>
+	<td>
+		<table>
+			<tr valign=top>
+				<td><code><b>xx</td>
+				<td>
+				  00 connect sounds<br>
+				  01 tricycle<br>
+				  02 bicycle<br>
+				  03 car<br>
+				  04 airplane<br>
+  				</td>
+			</tr>
+			<tr valign=top>
+				<td rowspan=2 valign=top><code><b>yy</td>
+				<td>
+				  00-30 for each letter of the the alphabet in connect sounds
+				</td>
+			</tr>
+			<tr valign=top>
+				<td>
+				  00-?? for each section of a tricycle/bicycle/car/airplane
+				</td>
+			</tr>
+			<tr valign=top>
+				<td><code><b>zz</td>
+				<td>word number in set yy</td>
+			</tr>
+		</table>
+	</td>
+  </tr>
+  <tr bgcolor=lightgreen valign=top>
+	<td><code>WSx<code></td>
+	<td>No</td>
+	<td>Left Btn</td>
+	<td>
+		<table>
+			<tr valign=top>
+				<td><code><b>x</td>
+				<td>
+				  1 tricycle explanation<br>
+				  2 bicycle explanation<br>
+				  3 car explanation<br>
+				  4 airplane explanation<br>
+  				</td>
+			</tr>
+		</table>
+	</td>
+  </tr>
+
+  <tr valign=top>
+	<td rowspan=4>Quran</td>
+	<td><code>QAxxx.yyy<code></td>
+	<td>Yes (3 digits)</td>
+	<td>Left Btn</td>
+	<td>
+		<table>
+			<tr>
+				<td><code><b>xxx</td><td>Sura number xxx</td>
+			</tr>
+			<tr>
+				<td><code><b>yyy</td><td>Ayah yyy of Sura xxx</td>
+			</tr>
+		</table>
+	</td>
+  </tr>
+  <tr valign=top>
+	<td><code>QWxxx.yyy.zz<code></td>
+	<td>Yes (3 digits/2 digits for word)</td>
+	<td>Left Btn</td>
+	<td>
+		<table>
+			<tr>
+				<td><code><b>xxx</td><td>Sura number xxx</td>
+			</tr>
+			<tr>
+				<td><code><b>yyy</td><td>Ayah yyy of Sura xxx</td>
+			</tr>
+			<tr>
+				<td><code><b>yyy</td><td>Word zz of Ayah yyy</td>
+			</tr>
+		</table>
+	</td>
+  </tr>
+  <tr valign=top bgcolor=lightgreen>
+	<td><code>QSxxx<code></td>
+	<td>Yes (3 digits)</td>
+	<td>Left Btn</td>
+	<td>
+		<table>
+			<tr>
+				<td><code><b>xxx</td><td>Name of Sura number xxx</td>
+			</tr>
+		</table>
+	</td>
+  </tr>
+
+  <tr valign=top bgcolor=lightgreen>
+	<td><code>QSRxxx<code></td>
+	<td>Yes (3 digits)</td>
+	<td>Left Btn</td>
+	<td>
+		<table>
+			<tr>
+				<td><code><b>xxx</td><td>Entire recitation of Sura number xxx</td>
+			</tr>
+		</table>
+	</td>
+  </tr>
+
+  <tr valign=top bgcolor=yellow>
+	<td rowspan=3>Remembering Allah</td>
+	<td><code>RAAx<code></td>
+	<td>No</td>
+	<td>Left Btn</td>
+	<td>
+		<table>
+			<tr valign=top>
+				<td><code><b>x</td><td>Arabic pronunciation of term x in [RememberingAllah] section of aplay.apd</td>
+			</tr>
+		</table>
+	</td>
+  </tr>
+  <tr bgcolor=yellow>
+	<td><code>RAVx.y<code></td>
+	<td>No</td>
+	<td>Left Btn</td>
+	<td>
+		<table>
+			<tr valign=top>
+				<td><code><b>x</td><td>Personality identifier (0=child, 1=male, 2=female)</td>
+			</tr>
+			<tr valign=top>
+				<td><code><b>y</td><td>English text of term y in [RememberingAllah] section of aplay.apd</td>
+			</tr>
+		</table>
+	</td>
+  </tr>
+  <tr bgcolor=yellow>
+	<td><code>RATx.y<code></td>
+	<td>No</td>
+	<td>Left Btn</td>
+	<td>
+		<table>
+			<tr valign=top>
+				<td><code><b>x</td><td>Personality identifier (0=child, 1=male, 2=female)</td>
+			</tr>
+			<tr valign=top>
+				<td><code><b>y</td><td>English translation of term y in [RememberingAllah] section of aplay.apd</td>
+			</tr>
+		</table>
+	</td>
+  </tr>
+
+  <tr valign=top>
+	<td>Quiz Voices</td>
+	<td><code>QZxx.yy.zz<code></td>
+	<td>Yes (two digits)</td>
+	<td>Left Btn</td>
+	<td>
+		<table>
+			<tr valign=top>
+				<td><code><b>xx</td><td>Personality id (0=child,1=male,2=female)</td>
+			</tr>
+			<tr valign=top>
+				<td rowspan=6><code><b>yy</td><td>Quiz voice type</td>
+			</tr>
+			<tr valign=top><td>0 ask</td></tr>
+			<tr valign=top><td>1 correct response</td></tr>
+			<tr valign=top><td>2 incorrect response</td></tr>
+			<tr valign=top><td>3 identify correct</td></tr>
+			<tr valign=top><td>4 identify incorrect</td></tr>
+		</table>
+	</td>
+  </tr>
+
+  <tr valign=top bgcolor=yellow>
+	<td>Module Descriptions</td>
+	<td><code>MDSx<code></td>
+	<td>No</td>
+	<td>Right Btn</td>
+	<td>
+		<table>
+			<tr valign=top>
+				<td rowspan=8><code><b>x</td><td>Module</td>
+			</tr>
+			<tr><td>0 Letters
+			<tr><td>1 Sounds
+			<tr><td>2 Shapes
+			<tr><td>3 Connect Sounds
+			<tr><td>4 Connect
+			<tr><td>5 Quran
+			<tr><td>6 Remembering Allah
+		</table>
+	</td>
+  </tr>
+
+  <tr valign=top>
+	<td>Mode Explanations</td>
+	<td><code>EXMx<code></td>
+	<td>No</td>
+	<td>Right Btn</td>
+	<td>
+		<table>
+			<tr valign=top>
+				<td rowspan=8><code><b>x</td><td>Mode</td>
+			</tr>
+			<tr><td>0 Explore
+			<tr><td>1 Learn
+			<tr><td>2 Play
+			<tr><td>9 Stop button
+			<tr bgcolor=lightgreen><td>10 Advanced mode (graduation hat)
+			<tr bgcolor=lightgreen><td>11 Repeat quiz question (talking man)
+			<tr bgcolor=lightgreen><td>12 Connect mode (puzzle)
+		</table>
+	</td>
+  </tr>
+</table>

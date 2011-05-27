@@ -1,0 +1,41 @@
+/****************************************************************************
+
+
+app.rc
+
+produced by Borland Resource Workshop
+
+
+*****************************************************************************/
+
+IDB_QURANBRD BITMAP "res/quran/quranbrd.bmp"
+IDB_SURA_1   BITMAP "res/quran/1.bmp"
+IDB_SURA_103 BITMAP "res/quran/103.bmp"
+IDB_SURA_104 BITMAP "res/quran/104.bmp"
+IDB_SURA_105 BITMAP "res/quran/105.bmp"
+IDB_SURA_106 BITMAP "res/quran/106.bmp"
+IDB_SURA_107 BITMAP "res/quran/107.bmp"
+IDB_SURA_108 BITMAP "res/quran/108.bmp"
+IDB_SURA_109 BITMAP "res/quran/109.bmp"
+IDB_SURA_110 BITMAP "res/quran/110.bmp"
+IDB_SURA_111 BITMAP "res/quran/111.bmp"
+IDB_SURA_112 BITMAP "res/quran/112.bmp"
+IDB_SURA_113 BITMAP "res/quran/113.bmp"
+IDB_SURA_114 BITMAP "res/quran/114.bmp"
+
+IDC_HANDCURSOR CURSOR "res/hand.cur"
+
+IDW_BUTTON RCDATA "res/sounds/button.wav"
+IDW_ITEM   RCDATA "res/sounds/item.wav"
+IDW_CLICK  RCDATA "res/sounds/click.wav"
+IDW_PAGE   RCDATA "res/sounds/page.wav"
+IDW_TICK   RCDATA "res/sounds/tick.wav"
+IDW_TINK   RCDATA "res/sounds/tink.wav"
+IDW_TINK2  RCDATA "res/sounds/1melo.wav"
+IDW_TINK3  RCDATA "res/sounds/1melo2.wav"
+IDW_BELL   RCDATA "res/sounds/wcasyn.wav"
+IDW_PHASER RCDATA "res/sounds/phaser.wav"
+IDW_THUD   RCDATA "res/sounds/thud.wav"
+IDW_WHOOSH RCDATA "res/sounds/whoosh1.wav"
+IDW_TYPE   RCDATA "res/sounds/type.wav"
+

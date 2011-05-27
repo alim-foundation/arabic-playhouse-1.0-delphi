@@ -1,0 +1,12 @@
+In "when something good happens" of Prayers, it says I don't know
+Implement copy-protection
+Add bismillah to app startup
+Add proper names to about box
+Add images to "remembering Allah" words
+Add system info/debugging features
+Add splash screen
+Add features for globalization
+Add user tracking (who is using, login, etc)
+Add learning analysis feature
+Nawaf: need smaller Aplay image (250, 300, 400, 500)
+Nawaf: need smaller Aplay image (100, 175, 225, 300)

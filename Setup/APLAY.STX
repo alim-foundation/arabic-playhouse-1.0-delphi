@@ -1,0 +1,46 @@
+[Main]
+;*** DO NOT TOUCH! The format of this file WILL change.
+Product=Setup Pro
+Version=1.0
+OEM=Eschalon Release Edition
+Base Directory=h:\projects\aplay\setup\install
+
+[Settings]
+Application Name=Arabic Playhouse
+Window Title=Welcome to Arabic Playhouse
+Background Title=Arabic Playhouse
+Directory=c:\aplay
+PM Group=Islamic Software
+Prompt PM=TRUE
+Disk Label Mask=Disk #%d
+Background=Dithered Title
+ReadMe Font=Default
+Resize ReadMe=FALSE
+ReadMe At Start=FALSE
+Brand Source=FALSE
+Brand Destination=FALSE
+End Program=
+
+[Branding]
+INI File=
+Section=
+Name=
+Company=
+
+[Files]
+aploader.exe="aploader.exe" 5595 A 0 C A
+asaraba.ttf="Arabic Font" 66364 F 0 C A
+kidsn.ttf="Application Font" 55204 F 0 C A
+verdana.ttf="Application Font" 52720 F 0 C A
+
+[INI Items]
+0=0 "win.ini" "ISL" "APDest" "%d"
+1=0 "%d\aploader.ini" "Settings" "Loader" "Arabic Playhouse"
+2=0 "%d\aploader.ini" "Settings" "Message" "Please insert the Arabic Playhouse CD-ROM into the drive."
+3=0 "%d\aploader.ini" "Settings" "Error" "Unable to run Arabic Playhouse"
+4=0 "%d\aploader.ini" "Settings" "Executable" "%s\aplay.exe"
+5=0 "%d\aploader.ini" "Settings" "Directory" "%s"
+
+[PM Items]
+Arabic Playhouse=0 "%d\aploader.exe" "%d" "" "0"
+
